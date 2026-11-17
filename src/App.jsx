@@ -591,7 +591,7 @@ export default function App() {
       }`}>
         <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-2">
           <div className="flex items-center gap-2">
-            <span className="px-2 py-0.5 rounded bg-indigo-500/30 border border-indigo-400/40 font-semibold text-[11px]">
+            <span className="hidden px-2 py-0.5 rounded bg-indigo-500/30 border border-indigo-400/40 font-semibold text-[11px]">
               โหมดทดสอบสำหรับผู้ขาย (Seller Preview)
             </span>
             <span className="hidden md:inline text-indigo-200/90">
